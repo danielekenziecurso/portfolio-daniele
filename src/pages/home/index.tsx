@@ -47,15 +47,18 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, sou a {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-            Sou{" "}
+              Sou uma desenvolvedora Web Full Stack{" "}
               <Text as="span" type="heading1" color="brand1">
-              paixonada
+                com uma paixão pela criação de experiências digitais impactantes
               </Text>{" "}
-              por criar experiências{" "}
+              com experiência em projetos envolvendo as tecnologias:{" "}
               <Text as="span" type="heading1" color="brand1">
-              digitais
+                HTML| CSS| JavaScript| Typescript| React | NodeJS| Python |
+                DJANGO | TypeORM ,
               </Text>{" "}
-              impactantes.
+              tenho vivência em metodologias
+              ágeis como o SCRUM, utilização de ferramentas para otimizar minha
+              efetividade como Trello Notion entre outros.
             </Text>
             <Text type="body1" color="grey2">
               Conheça aqui neste ambiente, criado especialmente para você, todos
@@ -92,12 +95,12 @@ export const Home = (): JSX.Element => {
           <ProjectAreaWrapperColumns>
             <ProjectsAreaSocialMediaMessage>
               <Text as="h2" type="heading4" color="grey4">
-              Meus projetos
+                Meus projetos
               </Text>
               <Text as="p" type="body1" color="grey2">
-              Alguns dos meus{" "}
+                Alguns dos meus{" "}
                 <Text as="span" color="brand5">
-                Projetos paralelos
+                  Projetos paralelos
                 </Text>
               </Text>
             </ProjectsAreaSocialMediaMessage>
