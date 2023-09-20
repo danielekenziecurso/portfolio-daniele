@@ -5,5 +5,6 @@ export const userData = {
   whatsappNumber: "+5575999022114",
   emailUser: "danieleccb25@hotmail.com",
   instagramUser: "daniele.chagas.79",
+  facebookUser: "",
   portfolioUrl: "https://github.com/danielekenziecurso/portfolio-daniele",
 };
