@@ -47,18 +47,17 @@ export const Home = (): JSX.Element => {
               <Text color="grey4">Olá, sou a {userData.nameUser}</Text>
             </Flex>
             <Text as="h1" type="heading1" color="grey5">
-              Sou uma desenvolvedora Web Full Stack{" "}
+              Sou uma desenvolvedora Web Full Stack apaixonada pela criação de experiências digitais impactantes.{" "}
               <Text as="span" type="heading1" color="brand1">
-                com uma paixão pela criação de experiências digitais impactantes
+              Ao longo da minha jornada, tive a oportunidade de trabalhar em projetos diversificados,
               </Text>{" "}
-              com experiência em projetos envolvendo as tecnologias:{" "}
+              desde a implementação de interfaces de usuário interativas até o desenvolvimento de APIs seguras. 
+              Minha experiência abrange tecnologias como{" "}
               <Text as="span" type="heading1" color="brand1">
-                HTML| CSS| JavaScript| Typescript| React | NodeJS| Python |
-                DJANGO | TypeORM ,
+              C# | .NET | Java | JavaScript | TypeScript | Python | DJANGO | TypeORM | SQL | React e NodeJS. 
               </Text>{" "}
-              tenho vivência em metodologias
-              ágeis como o SCRUM, utilização de ferramentas para otimizar minha
-              efetividade como Trello Notion entre outros.
+              Sou adepta de metodologias ágeis, como o SCRUM, e utilizo ferramentas como Trello e Notion para otimizar minha efetividade.
+              Busco constantemente desafios que me permitam aplicar meu conhecimento e contribuir para projetos inovadores.
             </Text>
             <Text type="body1" color="grey2">
               Conheça aqui neste ambiente, criado especialmente para você, todos

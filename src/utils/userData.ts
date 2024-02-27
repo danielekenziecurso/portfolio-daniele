@@ -1,5 +1,5 @@
 export const userData = {
-  nameUser: "Daniele Chagas",
+  nameUser: "Daniele",
   githubUser: "danieleKenziecurso",
   linkedinUser: "daniele-chagas-997683251",
   whatsappNumber: "+5575999022114",
